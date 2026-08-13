@@ -75,7 +75,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Ujjwal15-coder/Foodify---The-Resturant-App.git
+   git clone https://github.com/Afroz7518/Foodify---The-Resturant-App.git
    cd Foodify---The-Resturant-App
    ```
 
